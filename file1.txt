@@ -1,4 +1,10 @@
 one
 two
 three
-four
+four - this is the line where the first commit was made.
+five
+six
+seven
+eight
+nine
+ten
